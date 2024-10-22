@@ -106,4 +106,4 @@ This project is open-source and free to use under the MIT License.
 
 ---
 
-This project demonstrates how to use deep learning models (YOLO and MobileNetV2) for real-time face detection and emotion recognition. Feel free to experiment with different models and settings to improve performance!
+This project demonstrates how to use deep learning models (YOLO and MobileNetV2) for real-time face detection and emotion recognition. Feel free to experiment with different models and settings to improve performance! YOLO and ResNet50 could not be added to this repo because of their file size.
